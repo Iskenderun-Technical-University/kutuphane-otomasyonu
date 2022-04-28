@@ -26,7 +26,7 @@ https://netbeans.apache.org/
 ❌ Projenin bitişi
 
 
-!!!!!Proje MAİN VE BRANCHE ŞUBELERİNİ KAPSAR..
+!!!!!Proje MAİN VE MASTER ŞUBELERİNİ KAPSAR..
 
 
 ![fontpreview](https://user-images.githubusercontent.com/101739706/165849645-ec971f4d-401b-4fd5-9d92-97e3a515df1c.jpg)
