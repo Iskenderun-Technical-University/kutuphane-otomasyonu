@@ -33,7 +33,9 @@ https://netbeans.apache.org/
 
 ![diagram](https://user-images.githubusercontent.com/101739706/165849691-f2fa5eba-3036-4fca-803e-40bea3e6f168.PNG)
 
+![fontpreview](https://user-images.githubusercontent.com/101739706/166009524-f0056861-4775-4dc5-85ce-1d89b58a5ed7.jpg)
 
+![Ekran Alıntısı1](https://user-images.githubusercontent.com/101739706/166009579-f515f814-2097-42a1-9cab-4825e05f51cd.PNG)
 
 
 ![fontpreview](https://user-images.githubusercontent.com/101739706/165849766-c6023f3f-17cc-48e0-bce9-09fb616fc1a1.jpg)
